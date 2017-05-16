@@ -21,7 +21,7 @@ function principal(){
 	});
 	miInput.addEventListener("change",function(){
 		console.log("Cambiando!");
-	})
+	});
 
 }
 principal();
