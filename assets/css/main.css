@@ -1,0 +1,26 @@
+body{
+	background-color: indigo;
+	font-family: 'Open Sans', sans-serif;
+	color: yellow;
+}
+#menu-prncipal{
+	width: 80%;
+	margin:0 auto;
+	background-color: whitesmoke;
+}
+#menu-principal ul{
+	list-style: none;
+	padding-left:0;
+}
+#menu-principal li{
+	display: inline-block;
+}
+#menu-principal ul li a{
+	text-decoration: none;
+	color:#484848;
+	padding: 10px 68px;
+	display: block;
+}
+input [name='mi-input']{
+	border:5px solid red;
+}
